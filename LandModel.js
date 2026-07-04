@@ -1,3 +1,5 @@
+//Comentario inicial
+
 const mongoose = require('mongoose');
 const Land = require('../../domain/Land/Land');
 const NumericUUID = require('../../domain/UUID/NumericUUID');

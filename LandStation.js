@@ -1,3 +1,5 @@
+//Comentario inicial
+
 const mongoose = require('mongoose');
 const { ObjectId } = require('mongodb');
 const LandStation = require('../../domain/LandStation/LandStation');
